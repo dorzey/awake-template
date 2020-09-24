@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Getting Started 2
 subtitle: Get Up and Running with Awake
 category:
   - About Awake
